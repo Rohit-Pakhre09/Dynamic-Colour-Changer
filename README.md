@@ -12,24 +12,32 @@
     <li>⚡ <strong>Lightweight & Fast</strong> – Built with pure HTML, CSS, and JavaScript.</li>
 </ul>
 
-<h2>🖼️ Screenshots</h2>
+<h2>🛠️ Technologies Used</h2>
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+</ul>
+
+
+<h2>🖼️ Screenshots / 🎥 Video </h2>
 <p>Here are some snapshots of the project in action:</p>
-<img src="screenshot1.png" alt="Dynamic Color Changer Screenshot 1" width="600">
-<img src="screenshot2.png" alt="Dynamic Color Changer Screenshot 2" width="600">
+<span><b>OUTPUT :-</b></span>
+<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/Dynamic-Colour-Changer.png" alt="Dynamic Color Changer Screenshot 1" width="600">
+<span><b>HTML :-</b></span>
+<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/HTML.png" alt="Dynamic Color Changer Screenshot 2" width="600">
+<span><b>CSS :-</b></span>
+<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/CSS.png" alt="Dynamic Color Changer Screenshot 2" width="600">
+<span><b>JAVASCRIPT :-</b></span>
+<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/JS.png" alt="Dynamic Color Changer Screenshot 2" width="600">
 
 <h2>🎥 Demo Video</h2>
 <p>Watch the project in action:</p>
-<video width="600" controls>
-    <source src="demo-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-<h2>🔗 Live Demo</h2>
-<p>Check out the live version here: <a href="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer" target="_blank">GitHub Repository</a></p>
+<img src="https://raw.githubusercontent.com/Rohit-Pakhre09/Dynamic-Colour-Changer/main/Dynamic%20Background%20Colour/Assets/Dynamic-Colour-Changer.gif" width="600">
 
 <h2>📩 Connect with Me</h2>
 <p>Feel free to reach out or contribute to this project!</p>
 <ul>
-    <li>🔗 <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
-    <li>📧 Email: your.email@example.com</li>
+    <li>🔗 Linked In Profile: <a href="https://www.linkedin.com/in/rohit-pakhre/">LinkedIn</a></li>
+    <li>📧 Email: pakhrerohit281@gmail.com</li>
 </ul>
