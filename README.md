@@ -23,17 +23,13 @@
 <h2>🖼️ Screenshots / 🎥 Video </h2>
 <p>Here are some snapshots of the project in action:</p>
 <span><b>OUTPUT :-</b></span>
-<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/Dynamic-Colour-Changer.png" alt="Dynamic Color Changer Screenshot 1" width="600">
-<span><b>HTML :-</b></span>
-<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/HTML.png" alt="Dynamic Color Changer Screenshot 2" width="600">
-<span><b>CSS :-</b></span>
-<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/CSS.png" alt="Dynamic Color Changer Screenshot 2" width="600">
-<span><b>JAVASCRIPT :-</b></span>
-<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/JS.png" alt="Dynamic Color Changer Screenshot 2" width="600">
-
+<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/88d40d5e8fdd976075a0e4d20a7bab8a7076d447/Dynamic%20Background%20Colour/Assets/Dynamic-Colour-Changer.png" alt="Dynamic Color Changer Screenshot 1" width="800">
 <h2>🎥 Demo Video</h2>
 <p>Watch the project in action:</p>
-<img src="https://raw.githubusercontent.com/Rohit-Pakhre09/Dynamic-Colour-Changer/main/Dynamic%20Background%20Colour/Assets/Dynamic-Colour-Changer.gif" width="600">
+<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/cf28ccbc86d5ad4523a6d13a002768fcbc0e586f/Dynamic%20Background%20Colour/Assets/Dynamic-Colour-Changer.gif">
+<span><b>HTML & JavaScript Code Snippet-</b></span>
+<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/08c0c341116539c9f597c89b0a467ab18084f3d6/Dynamic%20Background%20Colour/Assets/Javas.png" width="800">
+
 
 <h2>📩 Connect with Me</h2>
 <p>Feel free to reach out or contribute to this project!</p>
