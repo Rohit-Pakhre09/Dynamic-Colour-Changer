@@ -27,8 +27,6 @@
 <h2>🎥 Demo Video</h2>
 <p>Watch the project in action:</p>
 <img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/cf28ccbc86d5ad4523a6d13a002768fcbc0e586f/Dynamic%20Background%20Colour/Assets/Dynamic-Colour-Changer.gif">
-<span><b>HTML & JavaScript Code Snippet-</b></span>
-<img src="https://github.com/Rohit-Pakhre09/Dynamic-Colour-Changer/blob/08c0c341116539c9f597c89b0a467ab18084f3d6/Dynamic%20Background%20Colour/Assets/Javas.png" width="800">
 
 
 <h2>📩 Connect with Me</h2>
